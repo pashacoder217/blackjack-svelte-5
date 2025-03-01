@@ -2,7 +2,7 @@
 
 BlackJack card game built using Svelte 5 for educational purposes. This project was part of a presentation I gave at work to demonstrate Svelte and highlight the new features of Svelte 5.
 
-Check out the [BlackJack game live demo](https://blackjack-svelte-5.ivan-sem.com/).
+Check out the [BlackJack game live demo](https://blackjack-svelte-5.vercel.app/).
 
 ![compressed21](https://github.com/user-attachments/assets/214f1286-babb-48fb-b24b-bd4ebcf1e1ca)
 
